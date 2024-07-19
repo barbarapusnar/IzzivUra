@@ -5480,25 +5480,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/barbarap/.nuget/packages/": {}
+    "C:\\Users\\barbara\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/barbarap/IzzivUra/ShraniGeslo/ShraniGeslo.csproj",
+      "projectUniqueName": "D:\\Challenger\\IzzivUra\\ShraniGeslo\\ShraniGeslo.csproj",
       "projectName": "ShraniGeslo",
-      "projectPath": "/Users/barbarap/IzzivUra/ShraniGeslo/ShraniGeslo.csproj",
-      "packagesPath": "/Users/barbarap/.nuget/packages/",
-      "outputPath": "/Users/barbarap/IzzivUra/ShraniGeslo/obj/",
+      "projectPath": "D:\\Challenger\\IzzivUra\\ShraniGeslo\\ShraniGeslo.csproj",
+      "packagesPath": "C:\\Users\\barbara\\.nuget\\packages\\",
+      "outputPath": "D:\\Challenger\\IzzivUra\\ShraniGeslo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/barbarap/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\barbara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5560,7 +5567,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

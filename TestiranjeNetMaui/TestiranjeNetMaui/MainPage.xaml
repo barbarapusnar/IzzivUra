@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestiranjeNetMaui.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+           
+              <Label
+                Text="Uporabnik"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                />
+            <Entry x:Name="txtUp"
+                   Placeholder="Enter text"/>
+            <Label
+                  Text="Geslo"
+                   Style="{StaticResource SubHeadline}"
+                   SemanticProperties.HeadingLevel="Level2" />
+            <Entry x:Name="txtGeslo" IsPassword="true"/>
+            <Button
+                x:Name="btnPrijava"
+                Text="Login" 
+                SemanticProperties.Hint="Prijavi se"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+            <Label x:Name="labŽeton"
+         Text=""
+        Style="{StaticResource SubHeadline}"
+        SemanticProperties.HeadingLevel="Level2" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
