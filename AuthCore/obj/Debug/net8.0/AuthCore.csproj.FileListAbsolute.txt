@@ -1,0 +1,75 @@
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/appsettings.Development.json
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/appsettings.json
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/AuthCore
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/AuthCore.deps.json
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/AuthCore.runtimeconfig.json
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/AuthCore.dll
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/AuthCore.pdb
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/barbarap/Izziv ura/AuthCore/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.csproj.AssemblyReference.cache
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.AssemblyInfoInputs.cache
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.AssemblyInfo.cs
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.csproj.CoreCompileInputs.cache
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.MvcApplicationPartsAssemblyInfo.cache
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/staticwebassets.build.json
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/staticwebassets.development.json
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/staticwebassets/msbuild.AuthCore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/staticwebassets/msbuild.build.AuthCore.props
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AuthCore.props
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AuthCore.props
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/scopedcss/bundle/AuthCore.styles.css
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.csproj.Up2Date
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.dll
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/refint/AuthCore.dll
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.pdb
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/AuthCore.genruntimeconfig.cache
+/Users/barbarap/Izziv ura/AuthCore/obj/Debug/net8.0/ref/AuthCore.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/appsettings.Development.json
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/appsettings.json
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/AuthCore
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/AuthCore.deps.json
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/AuthCore.runtimeconfig.json
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/AuthCore.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/AuthCore.pdb
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.csproj.AssemblyReference.cache
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.AssemblyInfoInputs.cache
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.AssemblyInfo.cs
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.csproj.CoreCompileInputs.cache
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.MvcApplicationPartsAssemblyInfo.cs
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.MvcApplicationPartsAssemblyInfo.cache
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/staticwebassets.build.json
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/staticwebassets.development.json
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/staticwebassets/msbuild.AuthCore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/staticwebassets/msbuild.build.AuthCore.props
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AuthCore.props
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AuthCore.props
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/scopedcss/bundle/AuthCore.styles.css
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.csproj.Up2Date
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.dll
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/refint/AuthCore.dll
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.pdb
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/AuthCore.genruntimeconfig.cache
+/Users/barbarap/IzzivUra/AuthCore/obj/Debug/net8.0/ref/AuthCore.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/barbarap/IzzivUra/AuthCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
