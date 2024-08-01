@@ -1,0 +1,6 @@
+@DelNaServerju_HostAddress = http://localhost:5169
+
+GET {{DelNaServerju_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

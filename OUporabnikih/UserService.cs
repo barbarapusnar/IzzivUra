@@ -45,8 +45,13 @@ public class UserService
 
     public string GenerateJwtToken(Uporabnik user)
     {
+
+
         var tokenHandler = new JwtSecurityTokenHandler();
         var key = Encoding.ASCII.GetBytes(AuthSettings.PrivateKey);
+        var credentials = new SigningCredentials(
+            new SymmetricSecurityKey(key),
+            SecurityAlgorithms.HmacSha256Signature);
         var tokenDescriptor = new SecurityTokenDescriptor
         {
             Subject = new ClaimsIdentity(new Claim[]
@@ -54,7 +59,7 @@ public class UserService
                 new Claim(ClaimTypes.Name, user.Ime)
             }),
             Expires = DateTime.UtcNow.AddHours(1),
-            SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+            SigningCredentials = credentials
         };
         var token = tokenHandler.CreateToken(tokenDescriptor);
         return tokenHandler.WriteToken(token);

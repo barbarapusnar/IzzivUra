@@ -6,6 +6,8 @@ public class PodatkiDb : DbContext
         : base(options) { }
 
     public DbSet<Uporabnik> Uporabniki => Set<Uporabnik>();
+    public DbSet<Tipi> Vrsta => Set<Tipi>();
+    public DbSet<Registracije> Registracija => Set<Registracije>();
     protected override void OnModelCreating(ModelBuilder builder)
 {
     builder.Entity<Uporabnik>()

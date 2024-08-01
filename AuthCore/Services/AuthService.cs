@@ -26,7 +26,7 @@ public class AuthService
             Expires = DateTime.UtcNow.AddMinutes(15),
             SigningCredentials = credentials,
         };
-//opis đetona vsebuje podatke potrebne za ustvarjanje žetona
+//opis žetona vsebuje podatke potrebne za ustvarjanje žetona
         var token = handler.CreateToken(tokenDescriptor);
         return handler.WriteToken(token);
     }
