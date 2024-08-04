@@ -7,8 +7,8 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-           
-              <Label
+
+            <Label
                 Text="Uporabnik"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
@@ -28,8 +28,18 @@
                 HorizontalOptions="Fill" />
             <Label x:Name="labŽeton"
          Text=""
-        Style="{StaticResource SubHeadline}"
+       
         SemanticProperties.HeadingLevel="Level2" />
+            <Button
+                x:Name="btnKlic"
+                Text="Klic API z avtorizacijo" 
+                SemanticProperties.Hint="Kliči avtorizirano"
+                Clicked="btnKlic_Clicked"
+                HorizontalOptions="Fill" />
+            <Label x:Name="labOdGet"
+                Text=""
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2" /> 
         </VerticalStackLayout>
     </ScrollView>
 

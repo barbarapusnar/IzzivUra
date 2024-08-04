@@ -21,7 +21,9 @@ public static class MauiProgram
         builder.Services.AddTransient<MonkeyDetailsViewModel>();
         builder.Services.AddTransient<DetailsPage>();
         builder.Services.AddSingleton<MainPage>();
-
-		return builder.Build();
+        builder.Services.AddSingleton<IConnectivity>(Connectivity.Current);
+        builder.Services.AddSingleton<IGeolocation>(Geolocation.Default);
+        builder.Services.AddSingleton<IMap>(Map.Default);
+        return builder.Build();
 	}
 }

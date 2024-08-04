@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace TestiranjeNetMaui
 {
-    public class Uporanik
+    
+
+    public class Uporabnik
     {
-        public int Id { get; set; }
-        public string Ime { get; set; }
-        public string HashiranoGeslo { get; set; }
-        public bool JeAktiven { get; set; }
+        public int id { get; set; }
+        public string ime { get; set; }
+        public string kodiranoGeslo { get; set; }
+        public bool jeAktiven { get; set; }
     }
+
 }

@@ -3,19 +3,20 @@
   "WorkspaceRootPath": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|d:\\challenger\\izzivura\\testiranjenetmaui\\testiranjenetmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|solutionrelative:testiranjenetmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\barbara\\Downloads\\response_1721638638987.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|d:\\challenger\\izzivura\\testiranjenetmaui\\testiranjenetmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|solutionrelative:testiranjenetmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|d:\\challenger\\izzivura\\testiranjenetmaui\\testiranjenetmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|solutionrelative:testiranjenetmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|d:\\challenger\\izzivura\\testiranjenetmaui\\testiranjenetmaui\\httpsclienthandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|solutionrelative:testiranjenetmaui\\httpsclienthandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|d:\\challenger\\izzivura\\testiranjenetmaui\\testiranjenetmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|solutionrelative:testiranjenetmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|d:\\challenger\\izzivura\\testiranjenetmaui\\testiranjenetmaui\\uporanik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,6 +29,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|d:\\challenger\\izzivura\\testiranjenetmaui\\testiranjenetmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E7713EBC-EDB1-4113-828E-2C09C5A2F769}|TestiranjeNetMaui\\TestiranjeNetMaui.csproj|solutionrelative:testiranjenetmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\barbara\\Downloads\\response_1721638638987.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,7 +61,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "HttpsClientHandlerService.cs",
+              "DocumentMoniker": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\HttpsClientHandlerService.cs",
+              "RelativeDocumentMoniker": "TestiranjeNetMaui\\HttpsClientHandlerService.cs",
+              "ToolTip": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\HttpsClientHandlerService.cs",
+              "RelativeToolTip": "TestiranjeNetMaui\\HttpsClientHandlerService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:27:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "response_1721638638987.json",
               "DocumentMoniker": "C:\\Users\\barbara\\Downloads\\response_1721638638987.json",
               "ToolTip": "C:\\Users\\barbara\\Downloads\\response_1721638638987.json",
@@ -73,7 +90,7 @@
               "RelativeDocumentMoniker": "TestiranjeNetMaui\\Uporanik.cs",
               "ToolTip": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\Uporanik.cs",
               "RelativeToolTip": "TestiranjeNetMaui\\Uporanik.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T13:42:55.365Z"
             },
@@ -87,7 +104,8 @@
               "RelativeToolTip": "TestiranjeNetMaui\\App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-19T13:31:33.434Z"
+              "WhenOpened": "2024-07-19T13:31:33.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,40 +121,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MainPage.xaml",
               "RelativeDocumentMoniker": "TestiranjeNetMaui\\MainPage.xaml",
-              "ToolTip": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MainPage.xaml",
-              "RelativeToolTip": "TestiranjeNetMaui\\MainPage.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBwAAAAjAAAA",
+              "ToolTip": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MainPage.xaml*",
+              "RelativeToolTip": "TestiranjeNetMaui\\MainPage.xaml*",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-19T13:31:04.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "TestiranjeNetMaui\\MainPage.xaml.cs",
-              "ToolTip": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MainPage.xaml.cs",
-              "RelativeToolTip": "TestiranjeNetMaui\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAMwAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T13:14:10.987Z"
+              "WhenOpened": "2024-07-19T13:31:04.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestiranjeNetMaui\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MainPage.xaml.cs*",
+              "RelativeToolTip": "TestiranjeNetMaui\\MainPage.xaml.cs*",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwEMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:14:10.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MauiProgram.cs",
               "RelativeDocumentMoniker": "TestiranjeNetMaui\\MauiProgram.cs",
               "ToolTip": "D:\\Challenger\\IzzivUra\\TestiranjeNetMaui\\TestiranjeNetMaui\\MauiProgram.cs",
               "RelativeToolTip": "TestiranjeNetMaui\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T13:14:02.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T13:14:02.54Z"
             }
           ]
         }
