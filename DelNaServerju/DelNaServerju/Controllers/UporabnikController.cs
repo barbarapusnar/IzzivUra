@@ -23,9 +23,10 @@ namespace DelNaServerju.Controllers
         }
 
         // GET: api/Uporabnik
-        [Authorize]
+        //[Authorize]
         [HttpGet]
-        public async Task<IResult> GetUporabniki()
+        //public async Task<IResult> GetUporabniki()
+        public IResult GetUporabniki()
         {
             return Results.Ok("Avtoriziran dostop");
         }

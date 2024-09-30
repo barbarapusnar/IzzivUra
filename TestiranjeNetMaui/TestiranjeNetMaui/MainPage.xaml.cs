@@ -10,8 +10,10 @@ namespace TestiranjeNetMaui
     {
 
         string žeton = "";
+        //public static string BaseAddress =
+        //    DeviceInfo.Platform == DevicePlatform.Android ? "https://10.0.2.2:7034" : "https://localhost:7034";
         public static string BaseAddress =
-            DeviceInfo.Platform == DevicePlatform.Android ? "https://10.0.2.2:7034" : "https://localhost:7034";
+           DeviceInfo.Platform == DevicePlatform.Android ? "https://10.0.2.2:7034" : "http://challenger.scng.si";
         public static string up = $"{BaseAddress}/api/Uporabnik/";
         public MainPage()
         {
@@ -21,14 +23,14 @@ namespace TestiranjeNetMaui
         private  async void OnCounterClicked(object sender, EventArgs e)
         {
             //android
-#if DEBUG
-            HttpsClientHandlerService handler = new HttpsClientHandlerService();
-            HttpClient klient = new HttpClient(handler.GetPlatformMessageHandler());
-#else
-                        HttpClient klient = new HttpClient();
-#endif
+//#if DEBUG
+            //            HttpsClientHandlerService handler = new HttpsClientHandlerService();
+            //            HttpClient klient = new HttpClient(handler.GetPlatformMessageHandler());
+            //#else
+            //                        HttpClient klient = new HttpClient();
+            //#endif
             //windows
-            //HttpClient klient = new HttpClient();
+            HttpClient klient = new HttpClient();
 
 
             Uporabnik u = new Uporabnik();
@@ -62,14 +64,14 @@ namespace TestiranjeNetMaui
         private async void btnKlic_Clicked(object sender, EventArgs e)
         {
             //Android
-#if DEBUG
-            HttpsClientHandlerService handler = new HttpsClientHandlerService();
-            HttpClient klient = new HttpClient(handler.GetPlatformMessageHandler());
-#else
-                        HttpClient klient = new HttpClient();
-#endif
+//#if DEBUG
+//            HttpsClientHandlerService handler = new HttpsClientHandlerService();
+//            HttpClient klient = new HttpClient(handler.GetPlatformMessageHandler());
+//#else
+//                        HttpClient klient = new HttpClient();
+//#endif
            //windows
-           //HttpClient klient = new HttpClient();
+           HttpClient klient = new HttpClient();
             
             Uri uri = new Uri(up);
             try
