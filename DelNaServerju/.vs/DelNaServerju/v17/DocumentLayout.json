@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Challenger\\IzzivUra\\DelNaServerju\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|d:\\challenger\\izzivura\\delnaserverju\\delnaserverju\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|solutionrelative:delnaserverju\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|d:\\challenger\\izzivura\\delnaserverju\\delnaserverju\\controllers\\kolesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|solutionrelative:delnaserverju\\controllers\\kolesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|d:\\challenger\\izzivura\\delnaserverju\\delnaserverju\\controllers\\uporabnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|solutionrelative:delnaserverju\\controllers\\uporabnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|solutionrelative:delnaserverju\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|d:\\challenger\\izzivura\\delnaserverju\\delnaserverju\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|solutionrelative:delnaserverju\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|d:\\challenger\\izzivura\\delnaserverju\\delnaserverju\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|solutionrelative:delnaserverju\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|d:\\challenger\\izzivura\\delnaserverju\\delnaserverju\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|solutionrelative:delnaserverju\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|d:\\challenger\\izzivura\\delnaserverju\\delnaserverju\\controllers\\kolesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|solutionrelative:delnaserverju\\controllers\\kolesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F963297-345C-4FB2-A220-8F9F41D9A23D}|DelNaServerju\\DelNaServerju.csproj|d:\\challenger\\izzivura\\delnaserverju\\delnaserverju\\uporabnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\Program.cs",
               "RelativeDocumentMoniker": "DelNaServerju\\Program.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PodatkiDb.cs",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\PodatkiDb.cs",
               "RelativeDocumentMoniker": "DelNaServerju\\PodatkiDb.cs",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\UserService.cs",
               "RelativeDocumentMoniker": "DelNaServerju\\UserService.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AuthSettings.cs",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\AuthSettings.cs",
               "RelativeDocumentMoniker": "DelNaServerju\\AuthSettings.cs",
@@ -115,28 +115,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UporabnikController.cs",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\Controllers\\UporabnikController.cs",
               "RelativeDocumentMoniker": "DelNaServerju\\Controllers\\UporabnikController.cs",
               "ToolTip": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\Controllers\\UporabnikController.cs",
               "RelativeToolTip": "DelNaServerju\\Controllers\\UporabnikController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAB4AAAALAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T14:04:18.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T14:04:18.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "KolesaController.cs",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\Controllers\\KolesaController.cs",
               "RelativeDocumentMoniker": "DelNaServerju\\Controllers\\KolesaController.cs",
               "ToolTip": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\Controllers\\KolesaController.cs",
               "RelativeToolTip": "DelNaServerju\\Controllers\\KolesaController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADQAAAAMAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T06:45:37.046Z"
+              "WhenOpened": "2024-07-30T06:45:37.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -152,15 +152,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\appsettings.json",
               "RelativeDocumentMoniker": "DelNaServerju\\appsettings.json",
               "ToolTip": "D:\\Challenger\\IzzivUra\\DelNaServerju\\DelNaServerju\\appsettings.json",
               "RelativeToolTip": "DelNaServerju\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-28T13:09:57.019Z"
+              "WhenOpened": "2024-07-28T13:09:57.019Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

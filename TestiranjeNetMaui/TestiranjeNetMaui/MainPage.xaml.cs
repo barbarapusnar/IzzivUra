@@ -95,6 +95,11 @@ namespace TestiranjeNetMaui
                 Console.WriteLine(ex.Message);
             }
         }
+
+        private async void btnKolo_Clicked(object sender, EventArgs e)
+        {
+            await Shell.Current.GoToAsync("DetailsPage");
+        }
     }
 
 }

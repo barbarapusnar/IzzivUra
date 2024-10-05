@@ -18,7 +18,13 @@ namespace TestiranjeNetMaui
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif
-            
+            builder.Services.AddSingleton<KoloServis>();
+            builder.Services.AddSingleton<KolesaViewModel>();
+            builder.Services.AddTransient<DetailsPage>();
+            builder.Services.AddSingleton<MainPage>();
+
+           // builder.Services.AddTransient<MonkeyDetailsViewModel>();
+          
             return builder.Build();
         }
     }

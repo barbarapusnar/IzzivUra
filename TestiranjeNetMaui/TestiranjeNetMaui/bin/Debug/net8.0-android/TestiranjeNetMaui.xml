@@ -4,5 +4,93 @@
         <name>TestiranjeNetMaui</name>
     </assembly>
     <members>
+        <member name="T:TestiranjeNetMaui.BaseViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:TestiranjeNetMaui.BaseViewModel.IsBusy">
+            <inheritdoc cref="F:TestiranjeNetMaui.BaseViewModel.isBusy"/>
+        </member>
+        <member name="P:TestiranjeNetMaui.BaseViewModel.Title">
+            <inheritdoc cref="F:TestiranjeNetMaui.BaseViewModel.title"/>
+        </member>
+        <member name="P:TestiranjeNetMaui.KolesaContext.Single">
+            <summary>
+            Defines the source generated JSON serialization contract metadata for a given type.
+            </summary>
+        </member>
+        <member name="P:TestiranjeNetMaui.KolesaContext.ListKolo">
+            <summary>
+            Defines the source generated JSON serialization contract metadata for a given type.
+            </summary>
+        </member>
+        <member name="P:TestiranjeNetMaui.KolesaContext.Kolo">
+            <summary>
+            Defines the source generated JSON serialization contract metadata for a given type.
+            </summary>
+        </member>
+        <member name="P:TestiranjeNetMaui.KolesaContext.Int32">
+            <summary>
+            Defines the source generated JSON serialization contract metadata for a given type.
+            </summary>
+        </member>
+        <member name="P:TestiranjeNetMaui.KolesaContext.Object">
+            <summary>
+            Defines the source generated JSON serialization contract metadata for a given type.
+            </summary>
+        </member>
+        <member name="P:TestiranjeNetMaui.KolesaContext.String">
+            <summary>
+            Defines the source generated JSON serialization contract metadata for a given type.
+            </summary>
+        </member>
+        <member name="P:TestiranjeNetMaui.KolesaContext.Default">
+            <summary>
+            The default <see cref="T:System.Text.Json.Serialization.JsonSerializerContext"/> associated with a default <see cref="T:System.Text.Json.JsonSerializerOptions"/> instance.
+            </summary>
+        </member>
+        <member name="P:TestiranjeNetMaui.KolesaContext.GeneratedSerializerOptions">
+            <summary>
+            The source-generated options associated with this context.
+            </summary>
+        </member>
+        <member name="M:TestiranjeNetMaui.KolesaContext.#ctor">
+            <inheritdoc/>
+        </member>
+        <member name="M:TestiranjeNetMaui.KolesaContext.#ctor(System.Text.Json.JsonSerializerOptions)">
+            <inheritdoc/>
+        </member>
+        <member name="M:TestiranjeNetMaui.KolesaContext.GetTypeInfo(System.Type)">
+            <inheritdoc/>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsNotBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsNotBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsNotBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsNotBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
     </members>
 </doc>

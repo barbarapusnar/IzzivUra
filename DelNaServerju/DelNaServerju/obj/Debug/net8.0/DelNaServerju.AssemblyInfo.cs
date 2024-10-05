@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelNaServerju")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6715adfd26ba1d482f0400cfe43e6928a6db5bc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c3eb785826ed754d63965df0f5e57a54aa965e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelNaServerju")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelNaServerju")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

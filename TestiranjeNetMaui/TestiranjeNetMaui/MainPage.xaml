@@ -39,7 +39,13 @@
             <Label x:Name="labOdGet"
                 Text=""
                 Style="{StaticResource SubHeadline}"
-                SemanticProperties.HeadingLevel="Level2" /> 
+                SemanticProperties.HeadingLevel="Level2" />
+            <Button
+                x:Name="btnKolo"
+                Text="Na kolesa" 
+                SemanticProperties.Hint="Prikaz koles"
+                Clicked="btnKolo_Clicked"
+                HorizontalOptions="Fill" /> 
         </VerticalStackLayout>
     </ScrollView>
 

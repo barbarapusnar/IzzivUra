@@ -177,3 +177,5 @@ D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-wind
 D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
