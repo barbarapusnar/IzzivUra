@@ -14,7 +14,7 @@
          ItemsSource="{Binding Kolesa}"
          SelectionMode="None">
             <CollectionView.ItemTemplate>
-                <DataTemplate x:DataType="model:Kolo">
+                <DataTemplate x:DataType="model:KoloVM">
                     <Grid Padding="10">
                         <Frame HeightRequest="125" Style="{StaticResource CardView}">
                             <Frame.GestureRecognizers>
@@ -31,7 +31,7 @@
                                  Grid.Column="1"
                                  Padding="10">
                                     <Label Style="{StaticResource LargeLabel}" Text="{Binding znamka}" />
-                                    <Label Style="{StaticResource MediumLabel}" Text="{Binding trentnaLokacijaLatitude}" />
+                                    <Label Style="{StaticResource MediumLabel}" Text="{Binding naslov}" />
                                 </VerticalStackLayout>
                             </Grid>
                         </Frame>

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestiranjeNetMaui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9c3eb785826ed754d63965df0f5e57a54aa965e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f671e481631dc6a360a8baa79dd20fe88fa72fbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestiranjeNetMaui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestiranjeNetMaui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

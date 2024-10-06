@@ -1075,3 +1075,4 @@ D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-andr
 D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so
 D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-android\app_shared_libraries\x86\libxamarin-app.so
+D:\Challenger\IzzivUra\TestiranjeNetMaui\TestiranjeNetMaui\obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll

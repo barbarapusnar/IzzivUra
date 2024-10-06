@@ -11,7 +11,7 @@ namespace TestiranjeNetMaui
 {
     public partial class KolesaViewModel : BaseViewModel
     {
-        public ObservableCollection<Kolo> Kolesa { get; } = new();
+        public ObservableCollection<KoloVM> Kolesa { get; } = new();
         KoloServis koloService;
         public KolesaViewModel(KoloServis koloService)
         {
@@ -46,8 +46,15 @@ namespace TestiranjeNetMaui
                     Kolesa.Clear();
 
                 foreach (var kolo in kolesa)
-                    Kolesa.Add(kolo);
-
+                {
+                    KoloVM zLok = new KoloVM();
+                    zLok.id=kolo.id;
+                    zLok.lastnik=kolo.lastnik;
+                    zLok.znamka=kolo.znamka;
+                    zLok.slika = kolo.slika;
+                    zLok.naslov =await GeoServis.GetAddressFromCoordinates(kolo.trentnaLokacijaLatitude, kolo.trentnaLokacijaLongitude);
+                    Kolesa.Add(zLok);
+                }
             }
             catch (Exception ex)
             {
